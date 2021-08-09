@@ -1,12 +1,12 @@
 import React from 'react'
 import { Container } from '../styles/Center'
 
-function HomePage() {
+function AboutPage() {
     return (
         <Container>
-            <hq>Home Page</hq>
+            <h1>About</h1>
         </Container>
     )
 }
 
-export default HomePage
+export default AboutPage

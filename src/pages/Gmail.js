@@ -1,12 +1,12 @@
-import React from 'react';
-import { Container } from '../styles/center';
+import React from 'react'
+import { Container } from '../styles/Center'
 
-const Gmail = () => {
-  return (
-    <Container>
-      <h1>Gmail</h1>
-    </Container>
-  );
-};
+function Gmail() {
+    return (
+        <Container>
+            <h1>Gmail</h1>
+        </Container>
+    )
+}
 
-export default Gmail;
+export default Gmail
